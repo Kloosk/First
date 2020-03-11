@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "./static/js/main.8d412ba0.chunk.js",
+    "main.js.map": "./static/js/main.8d412ba0.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.47fb9b64.chunk.css": "./static/css/2.47fb9b64.chunk.css",
+    "static/js/2.81dd4700.chunk.js": "./static/js/2.81dd4700.chunk.js",
+    "static/js/2.81dd4700.chunk.js.map": "./static/js/2.81dd4700.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.634a7c2797791881d416a60c79864a02.js": "./precache-manifest.634a7c2797791881d416a60c79864a02.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.47fb9b64.chunk.css.map": "./static/css/2.47fb9b64.chunk.css.map",
+    "static/media/Img1.jpg": "./static/media/Img1.a6e5e492.jpg",
+    "static/media/Img2.jpg": "./static/media/Img2.7b798634.jpg",
+    "static/media/Img3.jpg": "./static/media/Img3.cb365ce4.jpg",
+    "static/media/dress.jpg": "./static/media/dress.1b5b107b.jpg",
+    "static/media/image1.jpg": "./static/media/image1.3897fecb.jpg",
+    "static/media/image2.jpg": "./static/media/image2.eb48d994.jpg",
+    "static/media/image3.jpg": "./static/media/image3.c3adc075.jpg",
+    "static/media/leggins.jpg": "./static/media/leggins.4884896c.jpg",
+    "static/media/shoes2.jpg": "./static/media/shoes2.6dde5462.jpg",
+    "static/media/shoes3.jpg": "./static/media/shoes3.afc4f3aa.jpg"
+  }
+}
